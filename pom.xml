@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wl.output</groupId>
-    <artifactId>goods-out</artifactId>
+    <artifactId>springboot-dynamic-datasources</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>goods-out</name>
-    <description>goods-out</description>
+    <name>springboot-dynamic-datasources</name>
+    <description>springboot-dynamic-datasources</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
